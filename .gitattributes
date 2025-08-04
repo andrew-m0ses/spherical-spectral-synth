@@ -1,2 +1,2 @@
-*.pd linguist-language=Pure-Data
-*.pat linguist-language=Pure-Data
+*.pd linguist-language=Pure-Data linguist-detectable
+*.pat linguist-language=Pure-Data linguist-detectable
