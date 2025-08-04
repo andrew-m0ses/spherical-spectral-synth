@@ -1,4 +1,4 @@
-real-time polyphonic FFT-based synthesizer with variable analog controls (including for spectral sensitivity, randomized dynamical envelopes of synthesized inharmonics, and arpeggiation) for the Raspberry Pi using Pure Data with a spherical enclosure
+real-time polyphonic FFT-based synthesizer--i.e., audio input spectrally filtered and output as sine waves--with variable analog controls (including for spectral sensitivity, randomized dynamical envelopes of synthesized inharmonics, and arpeggiation) for the Raspberry Pi using Pure Data with a spherical enclosure
 
 Pure Data dependencies: zexy and cyclone libraries
 
